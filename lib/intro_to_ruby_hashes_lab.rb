@@ -16,6 +16,3 @@ else
  end
  hash
 end
-
-
-  
